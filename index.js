@@ -16,7 +16,6 @@ let DATA = {
     hour: 'numeric',
     minute: 'numeric',
     timeZoneName: 'short',
-    timeZone: 'Asia/Afghanistan',
   }),
 };
 /**
