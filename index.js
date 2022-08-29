@@ -12,10 +12,11 @@ let DATA = {
   date: new Date().toLocaleDateString('en-GB', {
     weekday: 'long',
     month: 'long',
+    year: 'numeric',
     day: 'numeric',
     hour: 'numeric',
     minute: 'numeric',
-    timeZoneName: 'short',
+    timeZoneName: 'long',
   }),
 };
 /**
