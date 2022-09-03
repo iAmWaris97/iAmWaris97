@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Waris Haleem</h1>
 <h3 align="center">A Junior Full-Stack developer | Microverse Student</h3>
 
-I am holding a Bachelor’s degree in Computer Engineering and I am currently learning Full Stack developement with Microverse program.
+<b align="center">I am holding a Bachelor’s degree in Computer Engineering and I am currently learning Full Stack developement with Microverse program.</b>
 <hr>
 
 - 🔭 I am open to new job opportunities, send me an e-mail @(haleem.waris@gmail.com) 
