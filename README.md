@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Waris Haleem</h1>
 <h3 align="center">A Junior web developer | Microverse Student | Lecturer</h3>
 
-<b align="center">I am holding a Bachelor’s degree in Computer Engineering and I am currently learning Full Stack developement with Microverse program.</b>
+<b align="center">I am holding a Bachelor’s degree in Computer Engineering and I am currently learning Full Stack developement with Microverse program.</b> <br>
 <b align="center">I have done six months of software development internship at The One Technologies and four months of NodeJS internship at Asterism Infosoft. I am currently teaching computer subject at Razi Institute of Higher Education as part time lecturer</b>
 <hr>
 
