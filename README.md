@@ -3,7 +3,7 @@
 <h3 align="center">A Junior web developer | Microverse Student | Lecturer</h3>
 
 <b align="center">I am holding a Bachelor’s degree in Computer Engineering and I am currently learning Full Stack developement with Microverse program.</b> <br>
-<b align="center">I have done six months of software development internship at The One Technologies and four months of NodeJS internship at Asterism Infosoft. I am currently teaching computer subject at Razi Institute of Higher Education as part time lecturer</b>
+<b align="center">I have done six months of software development internship at The One Technologies and four months of NodeJS internship at Asterism Infosoft. I am currently teaching computer subject at Razi Institute of Higher Education as part time lecturer.</b>
 <hr>
 
 - 🔭 I am open to new job opportunities, send me an e-mail @(haleem.waris@gmail.com) 
@@ -39,7 +39,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%2300f.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iAmWaris97)](https://github.com/iAmWaris97/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=iAmWaris97&style=flat-square)
 <hr>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iAmWaris97&show_icons=true)  
