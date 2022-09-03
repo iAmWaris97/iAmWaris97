@@ -39,7 +39,9 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-%2300f.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <hr>
 
-![](https://komarev.com/ghpvc/?username=iAmWaris97&style=flat-square)
+<h3> 👱 Visitors count </h3>
+<img src="https://profile-counter.glitch.me/iAmWaris97/count.svg" />
+<p>
 <hr>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iAmWaris97&show_icons=true)  
