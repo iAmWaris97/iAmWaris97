@@ -1,4 +1,5 @@
 ![HEADMaster align="center"](https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif)
+<img align="center" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" width="500"> 
 <h1 align="center">Hi 👋, I'm Waris Haleem</h1>
 <h3 align="center">A Junior web developer | Microverse Student | Lecturer</h3>
 
