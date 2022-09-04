@@ -1,4 +1,4 @@
-![HEADMaster align="center"](https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif)
+![HEADMaster align="center"](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
  
 <h1 align="center">Hi 👋, I'm Waris Haleem</h1>
 <h3 align="center">A Junior web developer | Microverse Student | Lecturer</h3>
