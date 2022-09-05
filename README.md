@@ -8,11 +8,13 @@
 
 <hr>
 
-- 🔭 I am open to new job opportunities, send me an e-mail @(haleem.waris@gmail.com)
+- 🔭 I am open to new job opportunities, send me an e-mail 👉 <a href="mailto:haleem.waris@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="iAmWaris97 LinkedIn" height="30" width="40">
+  </a>
 - 🌱 I’m currently learning at ** Microverse**
 - 👨‍💻 All of my projects are available at 👉
-  <a href="https://github.com/iAmWaris97" target="_blank" align="center">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iAmWaris97 LinkedIn" height="30" width="40">
+  <a href="https://github.com/iAmWaris97" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="iAmWaris97 LinkedIn" height="30" width="40">
   </a>
 - 💬 Ask me about **Html, Css, JavaScript, React, MongoDB, MySQL, Node, and Express**
 - 😄 Feel free to say Hi.😉 <br>
