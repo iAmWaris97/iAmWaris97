@@ -22,11 +22,11 @@
   <a href="https://twitter.com/iAmWaris97" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iAmWaris97 Twitter" height="30" width="40">
   </a>
-  <a href="https://twitter.com/iAmWaris97" target="_blank">
+  <a href="https://www.facebook.com/waris.haleem.100/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iAmWaris97 Facebook" height="30" width="40">
   </a>
   <a href="https://www.instagram.com/waris.haleem/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iAmWaris97 Facebook" height="30" width="40">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iAmWaris97 Instagram" height="30" width="40">
   </a>
 
 <hr>
@@ -66,9 +66,3 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=iAmWaris97)
 
 <hr>
-
-<!-- <h3>Connect with me:</h3> -->
-
-<!-- <p align="left">
-
-</p> -->
