@@ -10,7 +10,7 @@
 
 - 🔭 I am open to new job opportunities, send me an e-mail @(haleem.waris@gmail.com)
 - 🌱 I’m currently learning at ** Microverse**
-- 👨‍💻 All of my projects are available at [https://github.com/iAmWaris97](https://github.com/iAmWaris97)
+- 👨‍💻 All of my projects are available at [https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://github.com/iAmWaris97)
 - 💬 Ask me about **Html, Css, JavaScript, React, MongoDB, MySQL, Node, and Express**
 - 😄 Feel free to say Hi.😉 <br>
 - <b>📫 Reach me at: 👇</b> <br> <br>
