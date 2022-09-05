@@ -11,8 +11,8 @@
 - 🌱 I’m currently learning at ** Microverse**
 - 👨‍💻 All of my projects are available at [https://github.com/iAmWaris97](https://github.com/iAmWaris97)
 - 💬 Ask me about **Html, Css, JavaScript, React, MongoDB, MySQL, Node, and Express**
-- 😄 Feel free to say Hi.😉
-- 📫 Reach me at: <br>
+- 😄 Feel free to say Hi.😉 <br>
+- 📫 Reach me at: <br> <br>
 <a href="https://twitter.com/iAmWaris97" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iAmWaris97" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/waris-haleem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Waris Haleem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/waris-haleem" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg" alt="Waris Haleem" height="30" width="40" /></a>**
