@@ -11,7 +11,7 @@
 - 🔭 I am open to new job opportunities, send me an e-mail @(haleem.waris@gmail.com)
 - 🌱 I’m currently learning at ** Microverse**
 - 👨‍💻 All of my projects are available at 👉
-  <a href="https://github.com/iAmWaris97" target="_blank">
+  <a href="https://github.com/iAmWaris97" target="_blank" align="center">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iAmWaris97 LinkedIn" height="30" width="40">
   </a>
 - 💬 Ask me about **Html, Css, JavaScript, React, MongoDB, MySQL, Node, and Express**
