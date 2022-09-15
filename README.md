@@ -17,16 +17,13 @@
 - <b>📫 Reach me at: 👇</b> <br> <br>
 
   <a href="https://www.linkedin.com/in/waris-haleem/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="iAmWaris97 LinkedIn" height="30" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="iAmWaris97 LinkedIn" height="30" width="40">
   </a>
   <a href="https://twitter.com/iAmWaris97" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iAmWaris97 Twitter" height="30" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="iAmWaris97 Twitter" height="30" width="40">
   </a>
   <a href="https://www.facebook.com/waris.haleem.100/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="iAmWaris97 Facebook" height="30" width="40">
-  </a>
-  <a href="https://www.instagram.com/waris.haleem/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iAmWaris97 Instagram" height="30" width="40">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="iAmWaris97 Facebook" height="30" width="40">
   </a>
 
 <hr>
@@ -52,6 +49,12 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="github" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg" title="Atom" alt="atom" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="babel" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="bash" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="chrome" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original.svg" title="Babel" alt="babel" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-original.svg" title="Babel" alt="babel" width="40" height="40"/>&nbsp;
 
 <hr>
 
