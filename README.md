@@ -1,7 +1,7 @@
 ![HEADMaster align="center"](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
 <h1 align="center">Hi 👋, I'm Waris Haleem</h1>
-<h3 align="center">A Junior web developer | Microverse Student | Lecturer</h3>
+<h3 align="center">Full-Stack Developer | MERN | Computer Engineer | Lecturer | Microverse Student </h3>
 
 <b align="center">I am holding a Bachelor’s degree in Computer Engineering and I am currently learning Full Stack development with the Microverse program.</b> <br>
 <b align="center">I have done six months of software development internship at The One Technologies and four months of NodeJS internship at Asterism Infosoft. I am currently teaching computer subject at the Razi Institute of Higher Education as a part-time lecturer.</b>
