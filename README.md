@@ -4,7 +4,7 @@
 <h3 align="center">Full-Stack Developer | MERN | Computer Engineer | Lecturer | Microverse Student </h3>
 
 <b align="center">I am holding a Bachelor’s degree in Computer Engineering and I am currently learning Full Stack development with the Microverse program.</b> <br>
-<b align="center">I have done six months of software development internship at The One Technologies and four months of NodeJS internship at Asterism Infosoft. I am currently teaching computer subject at the Razi Institute of Higher Education as a part-time lecturer.</b>
+<b align="center">I have done six months of software development internship at The One Technologies, India and four months of NodeJS internship at Asterism Infosoft. I am currently teaching computer subject at the Razi Institute of Higher Education as a part-time lecturer.</b>
 
 <hr>
 
