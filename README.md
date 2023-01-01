@@ -1,18 +1,19 @@
 ![HEADMaster align="center"](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
 <h1 align="center">Hi 👋, I'm Waris Haleem</h1>
-<h3 align="center">Full-Stack Developer | MERN | Computer Engineer | Lecturer | Microverse Student </h3>
+<h3 align="center">Full-Stack Developer | MERN Developer | Computer Engineer | Microverse Student </h3>
 
-<b align="center">I am holding a Bachelor’s degree in Computer Engineering and I am currently learning Full Stack development with the Microverse program.</b> <br>
-<b align="center">I have done six months of software development internship at The One Technologies, India and four months of NodeJS internship at Asterism Infosoft. I am currently teaching computer subject at the Razi Institute of Higher Education as a part-time lecturer.</b>
+<b align="center">Holding a Bachelor’s degree in Computer Engineering, I am currently learning Full Stack development at Microverse (an online school for international software developers).</b> <br> <br>
+
+<b align="center">I have worked and developed web apps as an intern at The One Technologies, India, and also during my internship at Asterism Infosoft, I built APIs and integrated them into web apps using NodeJS. I am currently teaching computer subjects at the Razi Institute of Higher Education as a part-time lecturer.</b> <br> <br>
+
+<b align="center">I have good knowledge of HTML/CSS, JavaScript, React, Node, Express, Ruby, PostgreSQL, and MySQL, and I am open to job opportunities.</b>
 
 <hr>
 
-- 🔭 I am open to new job opportunities, send me an e-mail 👉 [haleem.waris@gmail.com](mailto:haleem.waris@gmail.com)
-- 🌱 I’m currently learning at ** Microverse**
+- 🔭 Send me an e-mail 👉 [haleem.waris@gmail.com](mailto:haleem.waris@gmail.com)
 - 👨‍💻 All of my projects are available at 👉 [My GitHub](https://github.com/iAmWaris97)
   </a>
-- 💬 Ask me about **HTML, CSS, JavaScript, React, MongoDB, MySQL, Node, and Express**
 - 😄 Feel free to say Hi.😉 <br>
 - <b>📫 Reach me at: 👇</b> <br> <br>
 
