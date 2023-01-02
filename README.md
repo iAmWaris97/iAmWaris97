@@ -7,7 +7,7 @@
 
 <b align="center">I have worked and developed web apps as an intern at The One Technologies, India, and also during my internship at Asterism Infosoft, I built APIs and integrated them into web apps using NodeJS. I am currently teaching computer subjects at the Razi Institute of Higher Education as a part-time lecturer.</b> <br> <br>
 
-<b align="center">I have good knowledge of HTML/CSS, JavaScript, React, Node, Express, Ruby, PostgreSQL, and MySQL, and I am open to job opportunities.</b>
+<b align="center">With knowledge of HTML/CSS, JavaScript, React, Node, Express, Ruby, PostgreSQL, and MySQL I am open to job opportunities.</b>
 
 <hr>
 
