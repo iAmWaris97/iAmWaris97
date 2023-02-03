@@ -1,7 +1,7 @@
 ![HEADMaster align="center"](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
 <h1 align="center">Hi 👋, I'm Waris Haleem</h1>
-<h3 align="center">Full-Stack Developer | MERN Developer | Computer Engineer | Microverse Student </h3>
+<h3 align="center">Full-Stack Developer | MERN Developer | Computer Engineer | Learning RoR </h3>
 
 <b align="center">Holding a Bachelor’s degree in Computer Engineering, I am currently learning Full Stack development at Microverse (an online school for international software developers).</b> <br> <br>
 
