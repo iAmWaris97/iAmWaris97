@@ -1,33 +1,24 @@
 ![HEADMaster align="center"](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 
-<h1 align="center">Hi 👋, I'm Waris Haleem</h1>
-<h3 align="center">Full-Stack Developer | MERN Developer | Computer Engineer | Learning RoR </h3>
+<h1 align="center">👋, iAmWaris</h1>
 
-<b align="center">Holding a Bachelor’s degree in Computer Engineering, I am currently learning Full Stack development at Microverse (an online school for international software developers).</b> <br> <br>
-
-<b align="center">I have worked and developed web apps as an intern at The One Technologies, India, and also during my internship at Asterism Infosoft, I built APIs and integrated them into web apps using NodeJS. I am currently teaching computer subjects at the Razi Institute of Higher Education as a part-time lecturer.</b> <br> <br>
-
-<b align="center">With knowledge of HTML/CSS, JavaScript, React, Node, Express, Ruby, PostgreSQL, and MySQL I am open to job opportunities.</b>
-
+- ⚙  Computer Engineer
+- 👨‍💻 Full-Stack Developer
+- 👨‍🏫 Lecturer
+- 👨‍🎓 Student at [Microverse](https://github.com/microverseinc) to collaborate with international developers and improve my coding skills.
+- ⚒ In progress [Recipe App](https://github.com/iAmWaris97/recipe-app) and [JavaScript Bootcamp]()
 <hr>
 
-- 🔭 Send me an e-mail 👉 [haleem.waris@gmail.com](mailto:haleem.waris@gmail.com)
-- 👨‍💻 All of my projects are available at 👉 [My GitHub](https://github.com/iAmWaris97)
-  </a>
-- 😄 Feel free to say Hi.😉 <br>
-- <b>📫 Reach me at: 👇</b> <br> <br>
-
-  <a href="https://www.linkedin.com/in/waris-haleem/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="iAmWaris97 LinkedIn" height="30" width="40">
-  </a>
-  <a href="https://twitter.com/iAmWaris97" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="iAmWaris97 Twitter" height="30" width="40">
-  </a>
-  <a href="https://www.facebook.com/waris.haleem.100/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" title="Facebook" alt="iAmWaris97 Facebook" height="30" width="40">
-  </a>
-
+## Connect with me 🤙
+<a href='https://www.linkedin.com/in/waris-haleem/' target="_blank"><img src='./images/LinkedIN.svg' width='38px'/></a> 
+<a href='https://twitter.com/iAmWaris97'><img src='./images/Twitter.svg' width='38px'/></a>
+<!-- - 💻 HTML/CSS | JavaScript | React.js | Redux 
+- 🖥 Ruby | Ruby on Rails | Node | Express
+- 💿 MySQL | PostgreSQL | MongoDB
+- 👉 Databases | Algorithms | Data Structures -->
 <hr>
+
+## Tech Stack 📑
 <h3>Languages<h3>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -36,7 +27,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-
 
 <hr>
 
