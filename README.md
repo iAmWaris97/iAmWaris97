@@ -2,6 +2,14 @@
 
 <h1 align="center">👋, iAmWaris</h1>
 
+<p>I am a passionate full-stack developer with a Bachelor's degree in Computer Engineering. Currently, I am enrolled as a student at Microverse, where I am working alongside talented developers from all over the world to create amazing projects.
+
+In addition to my studies, I have also completed two internships as a Node Intern and Software Development Intern. These experiences have allowed me to gain valuable hands-on experience in the field of software development and hone my skills in various areas.
+
+My tech stack includes JavaScript, React, Redux, MERN, and Ruby on Rails. I am constantly learning new technologies and exploring new ways to improve my skills. As an avid learner, I believe that staying up-to-date with the latest trends and technologies is crucial for success in this field.
+
+I am always open to new job opportunities that allow me to grow both personally and professionally. If you are looking for a dedicated developer who is passionate about creating innovative solutions, then look no further! Let's connect and see how we can work together to bring your ideas to life.</p>
+
 - ⚙  Computer Engineer
 - 👨‍💻 Full-Stack Developer
 - 👨‍🏫 Lecturer
