@@ -2,7 +2,7 @@
 
 <h1 align="center">👋, iAmWaris 👉👨‍💻👨‍🏫👨‍🎓</h1>
 
-<p>I am a passionate full-stack developer with a Bachelor's degree in Computer Engineering. Currently, I am enrolled as a student at Microverse, where I am working alongside talented developers from all over the world to create amazing projects.
+<p style="text-justify: justify">I am a passionate full-stack developer with a Bachelor's degree in Computer Engineering. Currently, I am enrolled as a student at Microverse, where I am working alongside talented developers from all over the world to create amazing projects.
 
 In addition to my studies, I have also completed two internships as a Node Intern and Software Development Intern. These experiences have allowed me to gain valuable hands-on experience in the field of software development and hone my skills in various areas.
 
@@ -16,12 +16,8 @@ I am always open to new job opportunities that allow me to grow both personally 
 <hr>
 
 ## Connect with me 🤙
-<a href='https://www.linkedin.com/in/waris-haleem/' target="_blank"><img src='./images/LinkedIN.svg' width='38px'/></a> 
-<a href='https://twitter.com/iAmWaris97'><img src='./images/Twitter.svg' width='38px'/></a>
-<!-- - 💻 HTML/CSS | JavaScript | React.js | Redux 
-- 🖥 Ruby | Ruby on Rails | Node | Express
-- 💿 MySQL | PostgreSQL | MongoDB
-- 👉 Databases | Algorithms | Data Structures -->
+<a href='https://www.linkedin.com/in/waris-haleem/' target="_blank"><img src='[./images/LinkedIN.svg](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)' width='38px'/></a> 
+<a href='https://twitter.com/iAmWaris97'><img src='[./images/Twitter.svg](https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg)' width='38px'/></a>
 <hr>
 
 ## Tech Stack 📑
