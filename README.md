@@ -16,8 +16,8 @@ I am always open to new job opportunities that allow me to grow both personally 
 <hr>
 
 ## Connect with me 🤙
-<a href='https://www.linkedin.com/in/waris-haleem/' target="_blank"><img src='[./images/LinkedIN.svg](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)' width='38px'/></a> 
-<a href='https://twitter.com/iAmWaris97'><img src='[./images/Twitter.svg](https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg)' width='38px'/></a>
+<a href="https://www.linkedin.com/in/waris-haleem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waris-haleem" height="30" width="60" /></a>
+<a href="https://twitter.com/iAmWaris97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iAmWaris97" height="30" width="60" /></a>
 <hr>
 
 ## Tech Stack 📑
