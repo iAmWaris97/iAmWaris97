@@ -58,19 +58,8 @@ I am always open to new job opportunities that allow me to grow both personally 
 
 <hr>
 
-<style>
-.visit {
-  outline: solid 5px green;
-  transition: outline 0.6s linear;
-  margin: 0.5em;
-}
-
-.visit:hover { outline-width: 10px; }
-
-</style>
-
 <h3> Visitors count </h3>
-<img class="visit" src="https://profile-counter.glitch.me/iAmWaris97/count.svg" />
+<img style="border: 1px dotted green; padding: 3px;" src="https://profile-counter.glitch.me/iAmWaris97/count.svg" />
 
 <hr>
 
