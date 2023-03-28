@@ -59,8 +59,8 @@ I am always open to new job opportunities that allow me to grow both personally 
 <hr>
 
 <h3> Visitors count </h3>
-<img src="https://profile-counter.glitch.me/iAmWaris97/count.svg" />
-<p>
+<img style="border: 1px solid #555; padding: 5px;" src="https://profile-counter.glitch.me/iAmWaris97/count.svg" />
+
 <hr>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=iAmWaris97&show_icons=true&theme=vision-friendly-dark)
