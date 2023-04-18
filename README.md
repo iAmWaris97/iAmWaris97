@@ -44,7 +44,9 @@
 <hr>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iAmWaris97&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamwaris97&show_icons=true&locale=en&theme=dark" alt="iamwaris97" /></p>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iAmWaris97&theme=dark&hide_border=false)<br/>
 
 
