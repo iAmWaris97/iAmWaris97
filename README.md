@@ -2,22 +2,24 @@
 
 <h1 align="center">👋, iAmWaris 👉👨‍💻👨‍🏫👨‍🎓</h1>
 
-<p style="text-justify: justify">I am a passionate full-stack developer with a Bachelor's degree in Computer Engineering. Currently, I am enrolled as a student at Microverse, where I am working alongside talented developers from all over the world to create amazing projects.
+- 🔭 I’m currently working on [my Portfolio](https://iamwaris97.github.io/iAmWaris97-Portfolio)
 
-In addition to my studies, I have also completed two internships as a Node Intern and Software Development Intern. These experiences have allowed me to gain valuable hands-on experience in the field of software development and hone my skills in various areas.
+- 🌱 I’m currently learning **Vue and NextJS**
 
-I am always open to new job opportunities that allow me to grow both personally and professionally. If you are looking for a dedicated developer who is passionate about creating innovative solutions, then look no further! Let's connect and see how we can work together to bring your ideas to life.</p>
+- 👯 I’m looking to collaborate on [Trello clone](https://github.com/emilosman/trello-clone)
 
-<!-- - ⚙  Computer Engineer
-- 👨‍💻 Full-Stack Developer
-- 👨‍🏫 Lecturer
-- 👨‍🎓 Student at [Microverse](https://github.com/microverseinc) to collaborate with international developers and improve my coding skills.
-- ⚒ In progress [Recipe App](https://github.com/iAmWaris97/recipe-app) and [JavaScript Bootcamp]() -->
+- 📝 I write articles on [Medium](https://medium.com/@haleem.waris)
+
+- 💬 Ask me about **React, Node, Ruby on Rails**
+
+- 📫 How to reach me **haleem.waris@gmail.com**
+
+- 📄 Know about my experiences: [Portfolio](https://iamwaris97.github.io/iAmWaris97-Portfolio)
+
+- ⚡ Fun fact **Despite describing myself as lazy, I actually enjoy being productive and getting things done efficiently**
 <hr>
 
-## Connect with me 🤙
-<a href="https://www.linkedin.com/in/waris-haleem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waris-haleem" height="30" width="60" /></a>
-<a href="https://twitter.com/iAmWaris97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@iAmWaris97" height="30" width="60" /></a>
+
 <hr>
 
 ## Tech Stack 📑
