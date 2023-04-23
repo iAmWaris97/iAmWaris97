@@ -2,7 +2,7 @@
 
 <h1 align="center">👋, iAmWaris 👉👨‍💻👨‍🏫👨‍🎓</h1>
 
-- 🔭 I’m currently working on [my Portfolio](https://iamwaris97.github.io/iAmWaris97-Portfolio)
+- 🔭 I’m currently working on [my Portfolio](https://iamwaris97.github.io/waris-portfolio)
 
 - 🌱 I’m currently learning **Vue and NextJS**
 
@@ -14,7 +14,7 @@
 
 - 📫 Get in touch with me at **haleem.waris@gmail.com**
 
-- 📄 Know about my experiences: [Portfolio](https://iamwaris97.github.io/iAmWaris97-Portfolio)
+- 📄 Know about my experiences: [Portfolio](https://iamwaris97.github.io/waris-portfolio)
 
 - ⚡ Fun fact **Despite describing myself as lazy, I actually enjoy being productive and getting things done efficiently**
 
