@@ -18,7 +18,7 @@
 
 - 👀 Watch my seminars on scholarships here: [YouYube](https://youtube.com/playlist?list=PLihmzi4Ug_L3KpdUkOTC0AutCBSywA74c)
 
-- 🚇 [Scenic Trips](https://youtube.com/playlist?list=PLihmzi4Ug_L3KpdUkOTC0AutCBSywA74c) travel vlogs here.
+- 🚇 [Scenic Trips](https://www.youtube.com/@Scenictrips) travel vlogs here.
 
 - ⚡ Fun fact **Despite describing myself as lazy, I actually enjoy being productive and getting things done efficiently**
 
