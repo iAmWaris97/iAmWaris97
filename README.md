@@ -4,17 +4,21 @@
 
 - 🔭 I’m currently working on [my Portfolio](https://iamwaris97.github.io/waris-portfolio)
 
-- 🌱 I’m currently learning **Vue and NextJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on [Trello clone](https://github.com/emilosman/trello-clone)
 
 - 📝 I write articles on [Medium](https://medium.com/@haleem.waris)
 
-- 💬 Ask me about **React, Node, Ruby on Rails**
+- 💬 Ask me about **React, Node, and Ruby on Rails**
 
 - 📫 Get in touch with me at **haleem.waris@gmail.com**
 
 - 📄 Know about my experiences: [Portfolio](https://iamwaris97.github.io/waris-portfolio)
+
+- 👀 Watch my seminars on scholarships here: [YouYube](https://youtube.com/playlist?list=PLihmzi4Ug_L3KpdUkOTC0AutCBSywA74c)
+
+- 🚇 [Scenic Trips](https://youtube.com/playlist?list=PLihmzi4Ug_L3KpdUkOTC0AutCBSywA74c) travel vlogs here.
 
 - ⚡ Fun fact **Despite describing myself as lazy, I actually enjoy being productive and getting things done efficiently**
 
