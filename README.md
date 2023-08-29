@@ -2,7 +2,7 @@
 
 <h1 align="center">👋, iAmWaris 👉👨‍💻👨‍🏫👨‍🎓</h1>
 
-- 🔭 I’m currently working on [my Portfolio](https://iamwaris97.github.io/waris-portfolio)
+- 🔭 I’m currently working on [my Portfolio](https://iamwaris97.netlify.app/)
 
 - 🌱 I’m currently learning **NextJS**
 
